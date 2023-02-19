@@ -2,3 +2,5 @@ DevOps A Software Architect’s Perspective (Bass, Len Weber, Ingo Zhu, Liming
 [Bass etc.)
 Docker Up Running Shipping Reliable Containers in Production (Sean P. Kane Karl
 Matthias)
+DevOps Automation Cookbook, By Michael Duffy, PACKT Publishing
+DevOps for Networking, By Steven Armstrong, PACKT Publishing
